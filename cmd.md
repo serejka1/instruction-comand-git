@@ -4,7 +4,7 @@
 
 * __cd desktop/GITN1__ смена директории _(основной папки)_
 
-## Авторизация
+# Авторизация
 
 * __git config --global  user.name "Name Surname"__ - Имя.
 * __git config --global  user.email "your@email"__ _ Email.
@@ -43,4 +43,3 @@
 
 * __git branch -d <branch_name>__ удаление ветки
 После слияния второстепенная ветка больше не нужна и мы её можем удалить. 
-
