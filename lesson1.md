@@ -51,7 +51,7 @@ ___жирный курсив___
 
 # Изображения
 
-![image](https://www.example.com/image.jpg)
+![Картинка](https://www.markdowntoolbox.com/MarkdownToolboxSmall.png)
 
 # Блоки кода
 
@@ -90,3 +90,5 @@ print("Привет, мир!")
 - [x] Задача 1
 - [ ] Задача 2
 - [ ] Задача 3
+
+[def]: https://ibb.co/tPf2651
